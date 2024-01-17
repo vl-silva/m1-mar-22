@@ -1,6 +1,6 @@
 const data_base = [ 
     {
-        nome:"Renato da silva",
+        nome:"Renato silva",
         cargo:"Facilitador",
         empresa:"Kenzie Academy",
         image:"./img/img.jpg",
